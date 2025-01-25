@@ -1,0 +1,25 @@
+.Wrapper {
+  max-width: 80%;
+  margin: auto;
+}
+
+.Wrapper h1 {
+  margin-bottom: 10px;
+  font-weight: 300;
+}
+
+.rowWrapper {
+  display: flex;
+}
+
+.btn {
+  margin-top: 1rem;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  padding: .6rem 1rem;
+  background-color: rgb(10, 17, 17);
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 2px 1px 10px rgba(0, 0, 0, .2);
+}
